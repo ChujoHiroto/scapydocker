@@ -1,6 +1,6 @@
 # alpine Linux Scapy Docker Image
 
-DockerでScapyを使いたい。
+DockerでScapyを使いたい人向け
 
 
 # How to

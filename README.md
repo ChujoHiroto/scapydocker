@@ -9,4 +9,7 @@ DockerでScapyを使いたい。
 $ make build
 
 $ make run
+
+/ # scapy
+
 ```
